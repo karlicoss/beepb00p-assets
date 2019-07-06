@@ -1,0 +1,2 @@
+#!/bin/bash
+convert IMG_20190705_122522.jpg -resize "1000x" -gravity center -crop '80%x100%+0+0' res.jpg
